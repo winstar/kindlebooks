@@ -1,7 +1,7 @@
 package routers
 
 import (
-	"kindlebooks/controllers"
+	"github.com/winstar/kindlebooks/controllers"
 	"github.com/astaxie/beego"
 )
 
